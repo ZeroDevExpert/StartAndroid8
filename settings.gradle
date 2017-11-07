@@ -1,1 +1,1 @@
-include ':app', ':p0641_alertdialogitemsmulti'
+include ':app', ':p0641_alertdialogitemsmulti', ':p0651_alertdialogcustom'
