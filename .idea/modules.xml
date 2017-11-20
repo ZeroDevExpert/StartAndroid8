@@ -12,10 +12,14 @@
       <module fileurl="file://$PROJECT_DIR$/p0641_alertdialogitemsmulti/p0641_alertdialogitemsmulti.iml" filepath="$PROJECT_DIR$/p0641_alertdialogitemsmulti/p0641_alertdialogitemsmulti.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0641_alertdialogitemsmulti/p0641_alertdialogitemsmulti.iml" filepath="$PROJECT_DIR$/p0641_alertdialogitemsmulti/p0641_alertdialogitemsmulti.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0651_alertdialogcustom/p0651_alertdialogcustom.iml" filepath="$PROJECT_DIR$/p0651_alertdialogcustom/p0651_alertdialogcustom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0651_alertdialogcustom/p0651_alertdialogcustom.iml" filepath="$PROJECT_DIR$/p0651_alertdialogcustom/p0651_alertdialogcustom.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0661_alertdialogoperations/p0661_alertdialogoperations.iml" filepath="$PROJECT_DIR$/p0661_alertdialogoperations/p0661_alertdialogoperations.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0661_alertdialogoperations/p0661_alertdialogoperations.iml" filepath="$PROJECT_DIR$/p0661_alertdialogoperations/p0661_alertdialogoperations.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0671_progressdialog/p0671_progressdialog.iml" filepath="$PROJECT_DIR$/p0671_progressdialog/p0671_progressdialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0671_progressdialog/p0671_progressdialog.iml" filepath="$PROJECT_DIR$/p0671_progressdialog/p0671_progressdialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0681_parcel/p0681_parcel.iml" filepath="$PROJECT_DIR$/p0681_parcel/p0681_parcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0681_parcel/p0681_parcel.iml" filepath="$PROJECT_DIR$/p0681_parcel/p0681_parcel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0691_parcelable/p0691_parcelable.iml" filepath="$PROJECT_DIR$/p0691_parcelable/p0691_parcelable.iml" />
     </modules>
   </component>
 </project>
