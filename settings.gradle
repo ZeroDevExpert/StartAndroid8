@@ -1,1 +1,1 @@
-include ':app', ':p0641_alertdialogitemsmulti', ':p0651_alertdialogcustom', ':myapplication', ':p0661_alertdialogoperations', ':p0671_progressdialog'
+include ':app', ':p0641_alertdialogitemsmulti', ':p0651_alertdialogcustom', ':myapplication', ':p0661_alertdialogoperations', ':p0671_progressdialog', ':p0681_parcel'
